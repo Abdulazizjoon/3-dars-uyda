@@ -1,0 +1,107 @@
+/* body{
+    background-color: rgb(214, 208, 208);
+} */
+.main{
+    margin-left: 300px;
+    margin-top: 100px;
+}
+.main :nth-child(1){
+    width: 60px;
+    height: 40px;
+    border: 0px;
+    border-radius:10px;
+    cursor: pointer;
+}
+.main :nth-child(2){
+    margin-left: 50px;
+    width: 60px;
+    height: 40px;
+    border: 0px;
+    border-radius:10px;
+    cursor: pointer;
+}
+.main :nth-child(3){
+    margin-left: 50px;
+    width: 60px;
+    height: 40px;
+    border: 0px;
+    border-radius:10px;
+    cursor: pointer;
+}
+.tiziq{
+    margin-top: 20px;
+    margin-left: 90px;
+    width: 90%;
+    height: 1px;
+    background-color:rgba(0, 0, 0, 0.163);
+}
+select{
+    width: 200px;
+    height: 40px;
+    /* size: 20px; */
+    border-radius:10px;
+    margin-top: 20px;
+    border: 1px solid rgba(0, 0, 0, 0.163);
+    margin-left: 30px;
+    cursor: pointer;
+}
+.selekt{
+    margin-left: 300px;
+}
+.bosh{
+    display: flex;
+    gap: 20px;
+    font-size:22px;
+    margin-left: 300px;
+}
+.bosh :nth-child(2){
+    margin-left: 20px;
+}
+.bosh :nth-child(3){
+    margin-left:200px; 
+}
+.bosh :nth-child(4){
+    margin-left: 160px;
+}
+.bosh :nth-child(5){
+    margin-left: 40px;
+}
+.oq1{
+    font-size: 19px;
+    margin-left: 300px;
+    display: flex;
+    gap: 50px;
+}
+.oq2{
+    font-size: 19px;
+    margin-left: 300px;
+    display: flex;
+    gap: 50px;
+}
+.oq3{
+    font-size: 19px;
+    margin-left: 300px;
+    display: flex;
+    gap: 50px;
+}
+.oq4{
+    font-size: 19px;
+    margin-left: 300px;
+    display: flex;
+    gap: 50px;
+}
+.oq5{
+    font-size: 19px;
+    margin-left: 300px;
+    display: flex;
+    gap: 50px;
+}
+.oq6{
+    font-size: 19px;
+    margin-left: 300px;
+    display: flex;
+    gap: 50px;
+}
+/* main{
+    background-color: #fff;
+} */
